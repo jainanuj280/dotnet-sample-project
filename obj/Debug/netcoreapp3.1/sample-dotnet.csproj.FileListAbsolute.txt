@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\sample-dotnet\bin\Debug\netcoreapp3.1\sample-dotnet.exe
+C:\Users\Administrator\source\repos\sample-dotnet\bin\Debug\netcoreapp3.1\sample-dotnet.deps.json
+C:\Users\Administrator\source\repos\sample-dotnet\bin\Debug\netcoreapp3.1\sample-dotnet.runtimeconfig.json
+C:\Users\Administrator\source\repos\sample-dotnet\bin\Debug\netcoreapp3.1\sample-dotnet.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\sample-dotnet\bin\Debug\netcoreapp3.1\sample-dotnet.dll
+C:\Users\Administrator\source\repos\sample-dotnet\bin\Debug\netcoreapp3.1\sample-dotnet.pdb
+C:\Users\Administrator\source\repos\sample-dotnet\obj\Debug\netcoreapp3.1\sample-dotnet.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\sample-dotnet\obj\Debug\netcoreapp3.1\sample-dotnet.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\sample-dotnet\obj\Debug\netcoreapp3.1\sample-dotnet.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\sample-dotnet\obj\Debug\netcoreapp3.1\sample-dotnet.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\sample-dotnet\obj\Debug\netcoreapp3.1\sample-dotnet.dll
+C:\Users\Administrator\source\repos\sample-dotnet\obj\Debug\netcoreapp3.1\sample-dotnet.pdb
+C:\Users\Administrator\source\repos\sample-dotnet\obj\Debug\netcoreapp3.1\sample-dotnet.genruntimeconfig.cache
